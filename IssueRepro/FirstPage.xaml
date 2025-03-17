@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Maui28414.IssueRepro.FirstPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="FirstPage">
+    <VerticalStackLayout>
+        <Button Clicked="Button_Clicked" Text="go to second page" />
+    </VerticalStackLayout>
+</ContentPage>
